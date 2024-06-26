@@ -20,10 +20,10 @@
 
 ### 🔥 My Stats :
 <p align="center">
-  <a href=""><img alt="Sajal-546's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sajal546&langs_count=8&count_private=true&layout=compact&theme=midnight-purple"/></a>
+  <a href="#"><img alt="Sajal-546's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sajal546&langs_count=8&count_private=true&layout=compact&theme=midnight-purple"/></a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sajal546&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sajal546&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
