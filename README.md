@@ -15,7 +15,7 @@
 
 
 ### 🛠️ Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=c,cpp, python,html,css,js,nodejs,express,mongodb,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mongodb,vscode,git)](https://skillicons.dev)
 
 
 ### 🔥 My Stats :
