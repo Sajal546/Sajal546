@@ -24,6 +24,6 @@
 </p>
 
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sajal-546&theme=dark&background=000000)](https://git.io/streak-stats" alt="Sajal-546's streak">
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sajal546&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
