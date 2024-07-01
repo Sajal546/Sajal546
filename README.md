@@ -20,11 +20,11 @@
 
 ### 🔥 My Stats :
 <p align="center">
-  <a href="#"><img alt="Sajal-546's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Sajal546&langs_count=8&count_private=true&layout=compact&theme=midnight-purple"/></a>
+  <a href="#"><img alt="Sajal546's contribution" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Sajal546&langs_count=8&count_private=true&layout=compact&theme=midnight-purple"/></a>
 </p>
 
 <p align="center">
-  <a href="#"><img alt="Sajal-546's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sajal546&langs_count=8&count_private=true&layout=compact&theme=midnight-purple"/></a>
+  <a href="#"><img alt="Sajal546's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sajal546&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&background=000000"/></a>
 </p>
 
 <p align="center">
